@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">DailyExpense</string>
+    <string name="title_activity_expense_list">ExpenseList</string>
+    <string name="login">LogIn</string>
+    <string name="newAccount">Create New Account</string>
+    <string name="signup">Sign Up</string>
+    <string name="cancel">Cancel</string>
+    <string name="title_activity_add_expense">AddExpense</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="addexpense">Add Expense</string>
+    <string name="logout">Log out</string>
+</resources>

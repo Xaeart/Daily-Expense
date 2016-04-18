@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/justin/.gradle/caches/modules-2/files-2.1/com.firebase/firebase-client-android/2.5.2/f19f10d6276aa0b380e2d05d2ab3272d693a5433/firebase-client-android-2.5.2.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="f19f10d6276aa0b380e2d05d2ab3272d693a5433">
+        <dex dex="/Users/justin/Downloads/DailyExpense/app/build/intermediates/pre-dexed/debug/firebase-client-android-2.5.2_c39989e14962b20db7002601293c05f5e130748f.jar" />
+    </item>
+    <item
+        jar="/Users/justin/.gradle/caches/modules-2/files-2.1/com.firebase/firebase-client-jvm/2.5.2/91731b8f5868a3e8a8a773f29b8d06b5c358f5bb/firebase-client-jvm-2.5.2.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="91731b8f5868a3e8a8a773f29b8d06b5c358f5bb">
+        <dex dex="/Users/justin/Downloads/DailyExpense/app/build/intermediates/pre-dexed/debug/firebase-client-jvm-2.5.2_01a4b01c7dc703ee025b7e96b62a8e1b323a98fc.jar" />
+    </item>
+    <item
+        jar="/Users/justin/Downloads/DailyExpense/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="/Users/justin/Downloads/DailyExpense/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.2.1_0a148bf2f61c6a655d247724a2a459f85112b5c0.jar" />
+    </item>
+    <item
+        jar="/Users/justin/Downloads/DailyExpense/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/libs/internal_impl-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="/Users/justin/Downloads/DailyExpense/app/build/intermediates/pre-dexed/debug/internal_impl-23.2.1_bde19a3c46a21b729f625c2d79f113f11fbdaa78.jar" />
+    </item>
+    <item
+        jar="/Users/justin/Downloads/DailyExpense/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="/Users/justin/Downloads/DailyExpense/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.2.1_a95a8868f5f91c015d38e5798a7919b2cb84e1d4.jar" />
+    </item>
+    <item
+        jar="/Users/justin/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.2.2/285cb9c666f0f0f3dd8a1be04e1f457eb7b15113/jackson-annotations-2.2.2.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="285cb9c666f0f0f3dd8a1be04e1f457eb7b15113">
+        <dex dex="/Users/justin/Downloads/DailyExpense/app/build/intermediates/pre-dexed/debug/jackson-annotations-2.2.2_09aba192aaf22a5ec29bad045bee2c1e1efb8de2.jar" />
+    </item>
+    <item
+        jar="/Users/justin/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.2.2/d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b/jackson-core-2.2.2.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b">
+        <dex dex="/Users/justin/Downloads/DailyExpense/app/build/intermediates/pre-dexed/debug/jackson-core-2.2.2_0071c5d93e16431af6e7b59e81e3f88927bc9884.jar" />
+    </item>
+    <item
+        jar="/Users/justin/Downloads/DailyExpense/app/build/intermediates/exploded-aar/com.android.support/design/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="72961d8b453b46e277702f18de9d210bc019e36e">
+        <dex dex="/Users/justin/Downloads/DailyExpense/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.2.1_0881317f469c9a24f78a9c213900681897b61392.jar" />
+    </item>
+    <item
+        jar="/Users/justin/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.2.2/3c8f6018eaa72d43b261181e801e6f8676c16ef6/jackson-databind-2.2.2.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="3c8f6018eaa72d43b261181e801e6f8676c16ef6">
+        <dex dex="/Users/justin/Downloads/DailyExpense/app/build/intermediates/pre-dexed/debug/jackson-databind-2.2.2_86d76c5a87aad350f009b9ec6919c755137e3a48.jar" />
+    </item>
+    <item
+        jar="/Users/justin/Downloads/DailyExpense/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="/Users/justin/Downloads/DailyExpense/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.2.1_e52d5dcbb01ae81ed6a30a26ce894f0a017add2e.jar" />
+    </item>
+    <item
+        jar="/Users/justin/.gradle/caches/modules-2/files-2.1/com.firebase/tubesock/0.0.12/6ec0bbd3e161a73ed672284b587fd32309a86d7a/tubesock-0.0.12.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="6ec0bbd3e161a73ed672284b587fd32309a86d7a">
+        <dex dex="/Users/justin/Downloads/DailyExpense/app/build/intermediates/pre-dexed/debug/tubesock-0.0.12_c7b1541e3a9efccda2acaccf4e45b7e8561d6485.jar" />
+    </item>
+    <item
+        jar="/Users/justin/Downloads/DailyExpense/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="e3885783ff8926ed9e2fdcd16816c2e1e73e7aee">
+        <dex dex="/Users/justin/Downloads/DailyExpense/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.2.1_63768390223df672b0663ca3abfb4ea56758dcaf.jar" />
+    </item>
+    <item
+        jar="/Users/justin/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.1/support-annotations-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="/Users/justin/Downloads/DailyExpense/app/build/intermediates/pre-dexed/debug/support-annotations-23.2.1_0e40ed9731912c9555f686cc815462cbc6fe8618.jar" />
+    </item>
+    <item
+        jar="/Users/justin/Downloads/DailyExpense/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="/Users/justin/Downloads/DailyExpense/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.2.1_b9b26b45cc34ab1dbcdedea0ee9d45c674f67a93.jar" />
+    </item>
+
+</items>
